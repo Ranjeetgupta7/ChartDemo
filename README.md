@@ -1,2 +1,2 @@
 # chartdemo
-create chart
+updatechart
